@@ -1,0 +1,7 @@
+.env
+.git*
+Dockerfile
+migrations/
+scripts/
+target/
+tests/
